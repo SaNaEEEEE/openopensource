@@ -40,3 +40,5 @@
 
 # How to implement it
 If you enter 'python + code file name' in Anaconda, the webcam screen will appear. And if you keep your pose so that your face is visible within the time limit, you will get a pretty picture using Christmas stickers.
+
+![result](https://github.com/SaNaEEEEE/openopensource/blob/main/result_image.png?raw=true)
