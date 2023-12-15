@@ -1,6 +1,6 @@
 ## openopensource
 
-# This Python code uses the OpenCV to capture video from webcam, detect face, and overlay random Christmas stickers on detected faces. Lastly, add red frames on up and down edges and green frames on left and right edges.
+### This Python code uses the OpenCV to capture video from webcam, detect face, and overlay random Christmas stickers on detected faces. Lastly, add red frames on up and down edges and green frames on left and right edges.
 
 1. import Libraries
 	cv2: OpenCV
